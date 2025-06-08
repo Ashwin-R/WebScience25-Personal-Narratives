@@ -59,4 +59,4 @@ This repository is organized to facilitate both the use of our pre-trained model
 
 The final, ready-to-use model is hosted on the Hugging Face Hub for easy access.
 
-*   **Model Page:** [**tejasvi/personal-narrative-classifier**](https://huggingface.co/tejasvichebrolu/personal-narrative-classifier)
+*   **Model Page:** [**tejasvichebrolu/personal-narrative-classifier**](https://huggingface.co/tejasvichebrolu/personal-narrative-classifier)
