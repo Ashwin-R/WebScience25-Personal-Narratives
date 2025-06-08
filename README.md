@@ -3,7 +3,7 @@
 [![Conference](https://img.shields.io/badge/WebSci'25-Best_Paper_Honorable_Mention-blue.svg)](https://doi.org/10.1145/3717867.3717899)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.20463-b31b1b.svg)](https://arxiv.org/abs/2502.20463)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/tejasvichebrolu/personal-narrative-classifier) 
-[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+
 
 This repository contains the official code, data, and models for the paper **"Personal Narratives Empower Politically Disinclined Individuals to Engage in Political Discussions"**, which received a Best Paper Honorable Mention at the 17th ACM Web Science Conference (WebSci'25).
 
