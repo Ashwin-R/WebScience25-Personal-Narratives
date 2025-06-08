@@ -172,7 +172,7 @@ if __name__ == '__main__':
         'data_path': '../data/complete_training_data.csv',
         'output_dir': '../trained_model',
         'epochs': 10,
-        'batch_size': 16, # Lowered a bit to be safer on memory
+        'batch_size': 16, 
         'learning_rate': 5e-5,
         'seed': 42
     }
